@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alan-JC
-- 👀 I’m interested in ... ["FUTBOL","FIRST","MOTOS"]
+- 👀 I’m interested in ... ["FUTBOL","ROBOTICS","F1"]
 - 🌱 I’m currently learning ... ["IA","PYTHON","SWIFT"]
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
