@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Alan Cruz — Software Developer</title>
+  <desc id="desc">Dark motorsport engineering inspired banner with teal telemetry details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08090A"/>
+      <stop offset="1" stop-color="#151A1C"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#A3A8AD" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" fill="url(#bg)"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+  <path d="M760 330C830 210 880 90 1040 -30M850 360C930 230 1000 120 1160 0" fill="none" stroke="#00D2BE" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M890 330C960 220 1030 120 1190 20" fill="none" stroke="#A3A8AD" stroke-opacity=".24" stroke-width="1"/>
+  <path d="M0 268H1200" stroke="#A3A8AD" stroke-opacity=".25"/>
+  <path d="M0 268H310" stroke="#00D2BE" stroke-width="3"/>
+  <text x="72" y="72" fill="#A3A8AD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">INDEPENDENT DEVELOPER PROFILE / MX</text>
+  <text x="68" y="174" fill="#ECEEEF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="2">ALAN CRUZ</text>
+  <text x="74" y="218" fill="#00D2BE" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="5">SOFTWARE  /  ROBOTICS  /  ENGINEERING</text>
+  <text x="74" y="300" fill="#A3A8AD" font-family="monospace" font-size="12" letter-spacing="2">BUILD  ·  TEST  ·  ITERATE</text>
+  <circle cx="1080" cy="92" r="5" fill="#00D2BE"/>
+  <path d="M1080 92h70" stroke="#00D2BE" stroke-width="1"/>
+  <text x="1160" y="96" fill="#A3A8AD" font-family="monospace" font-size="10" text-anchor="end">SYSTEM ACTIVE</text>
+</svg>
